@@ -1,0 +1,19 @@
+Functions:
+    - Connect to watch (default on main page)
+    - Install Watch APK 
+    - Install non-watch APK
+    - View installed APKs
+    - Uninstall APKs (job list type thing)
+     
+
+Main Page:
+    - Install App
+    - View/Remove app
+    - Connect your watch pls
+
+
+
+Additional:
+    - Install as system app 
+    - Auto detect watch
+    - Snap/AppImage
